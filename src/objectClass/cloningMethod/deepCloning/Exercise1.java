@@ -26,8 +26,6 @@ class Exercise1 {
         System.out.println(t1);
 
         Team t2 = t1.clone();
-
-
         System.out.println(t2);
         System.out.println(t1 == t2);
 
